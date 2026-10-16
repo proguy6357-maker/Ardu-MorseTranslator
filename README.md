@@ -1,2 +1,1 @@
-# Ardu-MorseTranslator
-This was tested on a arduino mega 
+This was tested on a arduino mega. Instructions: 1. Get an arduino ex: uno , mega , leonardo. 2. Get a buzzer with 3 pins or the original with 2 pins. 3. Paste translator.ino code in Arduino IDE. 4. Plug your arduino and upload and go to serial monitor. 5. Put your morse or use commands for help
